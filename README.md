@@ -99,7 +99,7 @@
   <h2>📧 Contact</h2>
   <p>
     Developed by <strong>Your Name</strong> <br>
-    🔗 <a href="www.linkedin.com/in/vinay-parashar-955975300" target="_blank">LinkedIn</a> | 
+    🔗 <a href="https://www.linkedin.com/in/vinay-parashar-955975300/" target="_blank">LinkedIn</a> | 
     💻 <a href="https://github.com/your-username" target="_blank">GitHub</a> | 
     ✉️ parasharvinay199@gmail.com
   </p>
