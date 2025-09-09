@@ -69,7 +69,7 @@
   <h2>🛠️ How to Use</h2>
   <ol>
     <li>Clone this repository:
-      <pre><code>git clone https://github.com/your-username/hr-analytics-dashboard.git</code></pre>
+      <pre><code>git clone https://github.com/vinay-0009/HR-Analytics</code></pre>
     </li>
     <li>Load dataset in <strong>scripts/</strong> folder.</li>
     <li>Open the <strong>dashboard file</strong> (.pbix for Power BI or .twbx for Tableau).</li>
@@ -100,7 +100,7 @@
   <p>
     Developed by <strong>Your Name</strong> <br>
     🔗 <a href="https://www.linkedin.com/in/vinay-parashar-955975300/" target="_blank">LinkedIn</a> | 
-    💻 <a href="https://github.com/your-username" target="_blank">GitHub</a> | 
+    💻 <a href="https://github.com/vinay-0009/HR-Analytics" target="_blank">GitHub</a> | 
     ✉️ parasharvinay199@gmail.com
   </p>
 
