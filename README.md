@@ -99,9 +99,9 @@
   <h2>📧 Contact</h2>
   <p>
     Developed by <strong>Your Name</strong> <br>
-    🔗 <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a> | 
+    🔗 <a href="www.linkedin.com/in/vinay-parashar-955975300" target="_blank">LinkedIn</a> | 
     💻 <a href="https://github.com/your-username" target="_blank">GitHub</a> | 
-    ✉️ your.email@example.com
+    ✉️ parasharvinay199@gmail.com
   </p>
 
 </body>
